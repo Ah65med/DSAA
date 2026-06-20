@@ -2,6 +2,13 @@
 
 A desktop pathfinding game built with Python and Tkinter. Path Finder turns the A* search algorithm into something you can play against: trace the shortest route between two points on a grid by hand, then see if you matched what A* actually found.
 
+## Contributors
+
+- [@talal](https://github.com/talal-11)
+- [@ahmed](https://github.com/Ah65med)
+- [@neha](https://github.com/nehalq)
+- [@shayan](https://github.com/sfxdeve)
+
 ## Overview
 
 The app opens to a main menu with two modes:
